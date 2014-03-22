@@ -3,5 +3,5 @@ pygments: true
 base_url: /
 markdown: redcarpet
 
-github: null
+github_uname: null
 twitter: null

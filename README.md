@@ -40,3 +40,11 @@ layout: note
 title: First Note
 header: Consider the following
 ```
+
+Items in this repository you may want to change before deploying this template:
+- `_config.yml`
+- The contents of the `_posts` directory
+- The contents of the `notes` directory
+- The About page.
+- The yaml front-matter for `index.html`
+- The contents of this `README.md` file
