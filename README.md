@@ -16,10 +16,9 @@ Configuration is easy, just edit `_config.yml`:
 ```yaml
 name: Sean Kross
 pygments: true
-base_url: /
 markdown: redcarpet
 
-github: seankross
+github_uname: seankross
 twitter: seankross
 ```
 

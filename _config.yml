@@ -1,6 +1,5 @@
 name: null
 pygments: true
-base_url: /
 markdown: redcarpet
 
 github_uname: null
